@@ -15,10 +15,10 @@ e.g. arXiv:1501.00001v1 or arXiv:0706.0001v2
 
 In general, the form is arXiv:YYMM.number{vV}, where
 
-YY is the two-digit year (07=2007 through 99=2099, and potentially up to 06=2106)  
-MM is the two-digit month number (01=Jan,...12=Dec)  
+**YY** is the two-digit year (07=2007 through 99=2099, and potentially up to 06=2106)  
+**MM** is the two-digit month number (01=Jan,...12=Dec)  
 number is a zero-padded sequence number of 4- or 5-digits. From 0704 through 1412 it is 4-digits, starting at 0001. From 1501 on it is 5-digits, starting at 00001. 5-digits permits up to 99999 submissions per month. We cannot currently anticipate more then 99999 submissions per month although extension to 6-digits would be possible.  
-vV is a literal v followed by a version number of 1 or more digits starting at v1.
+**vV** is a literal v followed by a version number of 1 or more digits starting at v1.
 
 [More detail](https://arxiv.org/help/arxiv_identifier)
 
