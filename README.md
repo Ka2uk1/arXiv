@@ -20,7 +20,7 @@ MM is the two-digit month number (01=Jan,...12=Dec)
 number is a zero-padded sequence number of 4- or 5-digits. From 0704 through 1412 it is 4-digits, starting at 0001. From 1501 on it is 5-digits, starting at 00001. 5-digits permits up to 99999 submissions per month. We cannot currently anticipate more then 99999 submissions per month although extension to 6-digits would be possible.
 vV is a literal v followed by a version number of 1 or more digits starting at v1.
 
-More detail []: https://arxiv.org/help/arxiv_identifier 
+[More detail](https://arxiv.org/help/arxiv_identifier)
 # Computing Research Repository (CoRR)
 ## Artificial Intelligence (cs.AI)
 Covers all areas of AI except Vision, Robotics, Machine Learning, Multiagent Systems, and Computation and Language (Natural Language Processing), which have separate subject areas. In particular, includes Expert Systems, Theorem Proving (although this may overlap with Logic in Computer Science), Knowledge Representation, Planning, and Uncertainty in AI. Roughly includes material in ACM Subject Classes I.2.0, I.2.1, I.2.3, I.2.4, I.2.8, and I.2.11.
