@@ -5,12 +5,12 @@ This repository try to explain/introduce you useful informations in Cyber Securi
 ## unique identifier(or archive and paper number)
 All arXiv submissions are assigned a unique identifier of the form yymm.nnnn (or arch-ive/yymmnnn for older submissions).All new articles have identifiers with the following form:
 
-**arXiv:YYMM.number**
+**arXiv:YYMM.number**  
 e.g. arXiv:1501.00001 or arXiv:0706.0001
 
 where identifiers up to month 1412 are zero-padded to 4-digits in the last block, and those from 1501 onward are zero-padded to 5-digits. Specific versions are referred to by adding the version number:
 
-**arXiv:YYMM.numbervV**
+**arXiv:YYMM.numbervV**  
 e.g. arXiv:1501.00001v1 or arXiv:0706.0001v2
 
 In general, the form is arXiv:YYMM.number{vV}, where
