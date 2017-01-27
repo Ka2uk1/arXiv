@@ -9,5 +9,7 @@ Covers image processing, computer vision, pattern recognition, and scene underst
 ### Machine Learning (cs.LG)
 Covers machine learning and computational (PAC) learning. Roughly includes material in ACM Subject Class I.2.6.
 ### Neural and Evolutionary Computing (cs.NE)
+Covers neural networks, connectionism, genetic algorithms, artificial life, adaptive behavior. Roughly includes some material in ACM Subject Class C.1.3, I.2.6, I.5.
 ## Statistics(stat)
 ### stat.ML - Machine Learning
+Classification, Graphical Models, High Dimensional Inference
