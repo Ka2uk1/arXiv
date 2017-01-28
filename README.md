@@ -26,7 +26,9 @@ number is a zero-padded sequence number of 4- or 5-digits. From 0704 through 141
 arXiv has limited server capacity and our first priority is to support interactive use by our many human users.  
 Several interfaces designed to provide machine access to arXiv are provided. See arXiv [OAI-PMH](https://arxiv.org/help/oa), [arXiv API](https://arxiv.org/help/api/index) and [RSS documentation](https://arxiv.org/help/rss). There are also facilities for bulk data download.
 
-[More detail](https://arxiv.org/help/robots)
+[More detail about bulk data download](https://arxiv.org/help/robots)
+[What's OAI-PMH?](http://www.nii.ac.jp/irp/archive/translation/oai-pmh2.0/)
+
 
 # Machine Learning
 ## [Computing Research Repository (CoRR)](https://arxiv.org/corr/home)
