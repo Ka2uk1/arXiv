@@ -30,11 +30,10 @@ Several interfaces designed to provide machine access to arXiv are provided. See
 [What's OAI-PMH?](http://www.nii.ac.jp/irp/archive/translation/oai-pmh2.0/)
 
 ## # Link list related arXiv
-[PaperScape] (http://paperscape.org/)
-
-[PaperScape(GitHub)] (https://github.com/paperscape)
-
+[PaperScape](http://paperscape.org/)
 Paperscape is an interactive map that visualises the arXiv, an open, online repository for scientific research papers.
+
+[PaperScape(GitHub page)](https://github.com/paperscape)
 
 # Machine Learning
 ## [Computing Research Repository (CoRR)](https://arxiv.org/corr/home)
